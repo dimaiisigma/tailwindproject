@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.radial-chill {
+    background: radial-gradient(#FADAD7,#F8FAD7)
+}
