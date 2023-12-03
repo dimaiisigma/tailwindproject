@@ -551,7 +551,7 @@ video {
 }
 img {
   width: 200px;
-  filter: hue-rotate:(260deg);
+  filter: hue-rotate(90deg);
 }
 .footer {
   background-color: transparent;
